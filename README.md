@@ -6,18 +6,20 @@
 <!--- Tags:: ---> 
 <!--- Ust:: ---> 
 <!--- Label --->
-<!--- ELabel ---> 
+<!--- ELabel --->
+
 <!--- Name:GPS02A: --->
 # GPS02A
+
 <!--- LongName --->
-## 
+## RTK navigation capable GPS module.  
 <!--- ELongName ---> 
 
 <!--- Lead --->
 
 <!--- ELead ---> 
 
-![GPS02A](doc/img/GPS02A_QRcode.png) 
+![GPS02A](doc/img/GPS02A_top.jpg) 
 
 
 <!--- Description --->
