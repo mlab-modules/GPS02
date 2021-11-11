@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>F:\MLAB_G\Moduly_zvlast\GPS02\hw\sch_pcb\GPS02B.kicad_sch</source>
-    <date>11.11.2021 7:59:44</date>
+    <date>11.11.2021 8:17:20</date>
     <tool>Eeschema (5.99.0-13046-g4fe9f01eb0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -119,10 +119,10 @@
       <value>M4</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f88b3</field>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
       </fields>
       <libsource lib="GPS02A-rescue" part="D_Zener-Device" description=""/>
-      <property name="UST_ID" value="5c70984512875079b91f88b3"/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="GPS02B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
