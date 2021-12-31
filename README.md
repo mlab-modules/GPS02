@@ -8,8 +8,8 @@
 <!--- Label --->
 <!--- ELabel --->
 
-<!--- Name:GPS02A: --->
-# GPS02A
+<!--- Name:GPS02B: --->
+# GPS02B
 
 <!--- LongName --->
 ## RTK navigation capable GPS module.  
