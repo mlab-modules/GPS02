@@ -2,19 +2,19 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/GPS02B.kicad_sch</source>
-    <date>Wed Apr  6 12:47:21 2022</date>
+    <date>Sun Aug 14 20:25:34 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>NAME</title>
+        <title>GPS02B</title>
         <company>Mlab www.mlab.cz</company>
         <rev>REV</rev>
         <date>%F</date>
         <source>GPS02B.kicad_sch</source>
-        <comment number="1" value="VERSION"/>
-        <comment number="2" value="Short description \nTwo lines are maximum"/>
+        <comment number="1" value=""/>
+        <comment number="2" value="uBlox  NEO-9 GNSS receiver module "/>
         <comment number="3" value="nickname &lt;email@example.com&gt;"/>
-        <comment number="4" value="BSD"/>
+        <comment number="4" value="GPL 3.0"/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
         <comment number="7" value=""/>
@@ -746,7 +746,7 @@
     <comp ref="U3">
       <value>NEO-M8P</value>
       <footprint>RF_GPS:ublox_NEO</footprint>
-      <datasheet>https://www.u-blox.com/sites/default/files/NEO-M8P_DataSheet_%28UBX-15016656%29.pdf</datasheet>
+      <datasheet>https://content.u-blox.com/sites/default/files/NEO-M8P_DataSheet_UBX-15016656.pdf</datasheet>
       <fields>
         <field name="UST_ID">5ed7ad5612875004e15a62f5</field>
       </fields>
