@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/GPS02B.kicad_sch</source>
-    <date>Sun Aug 14 20:25:34 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <date>Tue Feb 14 08:11:29 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>GPS02B</title>
