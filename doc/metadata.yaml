@@ -1,0 +1,16 @@
+description: uBlox NEO-9 module
+github_branch: GPS02B
+github_repo: GPS02
+github_url: https://github.com/mlab-modules/GPS02
+homepage: false
+images:
+- doc/img/GPS02A_top.jpg
+- doc/img/GPS02A_bottom.jpg
+- doc/gen/img/GPS02B-bottom.png
+- doc/gen/img/GPS02B-top.png
+- doc/img/GPS02A_QRcode.png
+- doc/gen/GPS02B-schematic.svg
+mark: 50
+mod_scheme: doc/gen/GPS02B-schematic.pdf
+tags: []
+title: GPS02
