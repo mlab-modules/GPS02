@@ -11,6 +11,7 @@ images:
 - doc/img/GPS02A_QRcode.png
 - doc/gen/GPS02B-schematic.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/GPS02B-ibom.html
 mod_scheme: doc/gen/GPS02B-schematic.pdf
 tags: []
 title: GPS02
