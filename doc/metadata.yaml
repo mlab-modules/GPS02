@@ -1,4 +1,5 @@
-description: uBlox NEO-9 module
+description: 'GPS02B is GNSS reciever with support of RTK (Real time kinematics) technology.
+  GPS02B reciever is based on u-blox NEO-M8P reciever. '
 github_branch: GPS02B
 github_repo: GPS02
 github_url: https://github.com/mlab-modules/GPS02
@@ -13,5 +14,14 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/ibom/GPS02B-ibom.html
 mod_scheme: doc/gen/GPS02B-schematic.pdf
-tags: []
+tags:
+- gnss
+- gps
+- galileo
+- mlab
+- nmea
+- pps
+- rtk
+- u-blox
+- ublox
 title: GPS02
