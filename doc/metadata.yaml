@@ -13,7 +13,7 @@ github_branches: !!python/object:github.PaginatedList.PaginatedList
   _PaginatedList__requester: !!python/object:github.Requester.Requester
     FIX_REPO_GET_GIT_REF: true
     _Requester__app_auth: null
-    _Requester__authorizationHeader: token ghs_dPkG3lQDHYOOhaD2sbEjIZbD3HruAZ4gUPBV
+    _Requester__authorizationHeader: token ghs_Jzm1KHFajHPocqe7935NxzWjknEOcP3eAECN
     _Requester__base_url: https://api.github.com
     _Requester__connection: !!python/object:github.Requester.HTTPSRequestsConnectionClass
       adapter: &id001 !!python/object:requests.adapters.HTTPAdapter
@@ -23,12 +23,12 @@ github_branches: !!python/object:github.PaginatedList.PaginatedList
         config: {}
         max_retries: !!python/object:urllib3.util.retry.Retry
           allowed_methods: &id002 !!python/object/apply:builtins.frozenset
-          - - OPTIONS
-            - HEAD
-            - GET
-            - PUT
-            - DELETE
+          - - PUT
             - TRACE
+            - GET
+            - DELETE
+            - HEAD
+            - OPTIONS
           backoff_factor: 0
           backoff_jitter: 0.0
           backoff_max: 120
@@ -47,7 +47,7 @@ github_branches: !!python/object:github.PaginatedList.PaginatedList
           total: 0
       headers:
         Accept: application/vnd.github.mercy-preview+json
-        Authorization: token ghs_dPkG3lQDHYOOhaD2sbEjIZbD3HruAZ4gUPBV
+        Authorization: token ghs_Jzm1KHFajHPocqe7935NxzWjknEOcP3eAECN
         User-Agent: PyGithub/Python
       host: api.github.com
       input: null
@@ -87,11 +87,11 @@ github_branches: !!python/object:github.PaginatedList.PaginatedList
         cert: null
         cookies: !!python/object:requests.cookies.RequestsCookieJar
           _cookies: {}
-          _now: 1684999438
+          _now: 1684999677
           _policy: !!python/object:http.cookiejar.DefaultCookiePolicy
             _allowed_domains: null
             _blocked_domains: !!python/tuple []
-            _now: 1684999438
+            _now: 1684999677
             hide_cookie2: false
             netscape: true
             rfc2109_as_netscape: null
@@ -153,7 +153,7 @@ github_branches: !!python/object:github.PaginatedList.PaginatedList
     oauth_scopes: null
     per_page: 30
     rate_limiting: !!python/tuple
-    - 996
+    - 993
     - 1000
     rate_limiting_resettime: 1685002949
   _PaginatedList__totalCount: null
@@ -162,12 +162,15 @@ github_repo: GPS02
 github_url: https://github.com/mlab-modules/GPS02
 homepage: false
 images:
-- doc/img/GPS02A_top.jpg
 - doc/img/GPS02A_bottom.jpg
-- doc/gen/img/GPS02B-bottom.png
-- doc/gen/img/GPS02B-top.png
+- doc/img/GPS02A_top.jpg
 - doc/img/GPS02A_QRcode.png
+- doc/gen/img/GPS02B-top.png
+- doc/gen/img/GPS02B-bottom.png
+- hw/cam_profi/docs/GPS02B-assembly_page_01.svg
+- hw/cam_profi/docs/GPS02B-assembly_page_02.svg
 - doc/gen/GPS02B-schematic.svg
+- doc/gen/img/GPS02B-top.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/GPS02B-ibom.html
 mod_scheme: doc/gen/GPS02B-schematic.pdf
