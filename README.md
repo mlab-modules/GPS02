@@ -24,7 +24,7 @@ The GPS02B MLAB module is built to withstand demanding environments and provide 
 
 ## Vast MLAB Ecosystem
 
-By choosing the GPS02B MLAB module, you gain access to a vast ecosystem of MLAB modules and resources. The MLAB community offers a wide range of compatible modules, libraries, and development tools, fostering collaboration and knowledge sharing. You can leverage existing MLAB projects and community support to accelerate your development and benefit from the collective expertise of the MLAB community.
+By choosing the GPS02B MLAB module, you gain access to a vast ecosystem of MLAB modules and resources. The MLAB community offers a wide range of compatible modules, libraries, and development tool. You can leverage existing MLAB projects and community support to accelerate your development and benefit from the collective expertise of the MLAB community.
 
 ## Applications
 
@@ -33,8 +33,6 @@ The GPS02B MLAB module offers a wide range of applications in the field of RTK n
 - **Precision Agriculture**: Utilize the high-accuracy positioning capabilities of the GPS02B module for precise guidance of agricultural machinery, enabling optimized field operations and reduced input costs.
 
 - **Geospatial Mapping**: Capture accurate geospatial data for surveying, mapping, and cartography applications. The GPS02B module provides reliable positioning information for creating detailed and precise maps.
-
-- **Unmanned Aerial Vehicles (UAVs)**: Integrate the GPS02B module into UAVs for accurate navigation, waypoint tracking, and autonomous flight. Achieve precise positioning and control for aerial mapping, surveillance, or inspection missions.
 
 - **Robotics**: Incorporate the GPS02B module into robotic systems for precise localization and navigation. Enable robots to navigate autonomously and perform tasks with high accuracy.
 
