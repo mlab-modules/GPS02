@@ -9,15 +9,15 @@ github_url: https://github.com/mlab-modules/GPS02
 homepage: false
 image: doc/img/GPS02A_bottom.jpg
 images:
-- doc/img/GPS02A_bottom.jpg
 - doc/img/GPS02A_top.jpg
+- doc/img/GPS02A_bottom.jpg
 - doc/img/GPS02A_QRcode.png
 - doc/gen/img/GPS02B-top.png
 - doc/gen/img/GPS02B-bottom.png
-- hw/cam_profi/docs/GPS02B-assembly_page_01.svg
-- hw/cam_profi/docs/GPS02B-assembly_page_02.svg
 - doc/gen/GPS02B-schematic.svg
 - doc/gen/img/GPS02B-top.svg
+- hw/cam_profi/docs/GPS02B-assembly_page_02.svg
+- hw/cam_profi/docs/GPS02B-assembly_page_01.svg
 issues: 3
 mark: 50
 mod_ibom: hw/cam_profi/ibom/GPS02B-ibom.html
