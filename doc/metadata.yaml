@@ -7,8 +7,7 @@ github_branches:
 github_repo: GPS02
 github_url: https://github.com/mlab-modules/GPS02
 homepage: false
-image: doc/img/GPS02A_bottom.jpg
-image_title: doc/img/GPS02A_bottom.jpg
+image_title: doc/gen/img/GPS02B-top.png
 images:
 - doc/img/GPS02A_bottom.jpg
 - doc/img/GPS02A_top.jpg
