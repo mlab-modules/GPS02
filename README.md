@@ -2,7 +2,10 @@
 
 ![GPS02B](doc/img/GPS02A_top.jpg)
 
-GPS02B is a highly accurate GNSS receiver module designed in the form of an MLAB (Modular Laboratory) module. This innovative design brings numerous advantages to the table, making it an exceptional choice for RTK (Real-Time Kinematics) navigation applications. The GPS02B module is based on the renowned u-blox [NEO-M8P](https://www.u-blox.com/en/product/neo-m8p-series) receiver, ensuring reliability and top-notch performance.
+GPS02B is an accurate GNSS receiver module designed in the form of an MLAB module. This innovative design brings numerous advantages to the table, making it a choice for [RTK (Real-Time Kinematics)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning) navigation experiments. The GPS02B module is based on the uBlox receiver. There are multiple uBlox module types
+
+  *[u-blox NEO-M8P](https://www.u-blox.com/en/product/neo-m8p-series) - With RTK functionality
+  *[u-blox NEO-M9N](https://www.u-blox.com/en/product/neo-m9n-module) - High navigation rate GNSS module without RTK
 
 The MLAB form factor provides several benefits for seamless integration and flexible usage. Here are some key advantages:
 
@@ -12,7 +15,7 @@ The GPS02B MLAB module follows the MLAB standard, making it easy to integrate in
 
 ## Plug-and-Play Functionality
 
-With its plug-and-play functionality, the GPS02B MLAB module simplifies the integration process. You can easily connect it to an MLAB system using the standardized connectors, eliminating the need for complex wiring or soldering. This streamlined setup accelerates your development process and reduces time-to-market.
+With its plug-and-play functionality, the GPS02B MLAB module simplifies the integration process. You can easily connect it to an MLAB system using standardized connectors, eliminating the need for complex wiring or soldering. This streamlined setup accelerates your development process and reduces time-to-market.
 
 ## Modular Expandability
 
@@ -24,7 +27,7 @@ The GPS02B MLAB module is built to withstand demanding environments and provide 
 
 ## Vast MLAB Ecosystem
 
-By choosing the GPS02B MLAB module, you gain access to a vast ecosystem of MLAB modules and resources. The MLAB community offers a wide range of compatible modules, libraries, and development tool. You can leverage existing MLAB projects and community support to accelerate your development and benefit from the collective expertise of the MLAB community.
+By choosing the GPS02B MLAB module, you gain access to a vast ecosystem of MLAB modules and resources. The MLAB community offers a wide range of compatible modules, libraries, and development tools. You can leverage existing MLAB projects and community support to accelerate your development and benefit from the collective expertise of the MLAB community.
 
 ## Applications
 
