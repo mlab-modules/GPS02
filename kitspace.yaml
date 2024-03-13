@@ -4,5 +4,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/GPS02
-summary: 'GPS02B is GNSS reciever with support of RTK (Real time kinematics) technology.
-  GPS02B reciever is based on u-blox NEO-M8P reciever. '
+summary: GPS02B is GNSS reciever ready to RTK (Real time kinematics) technology

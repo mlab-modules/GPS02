@@ -1,5 +1,4 @@
-description: 'GPS02B is GNSS reciever with support of RTK (Real time kinematics) technology.
-  GPS02B reciever is based on u-blox NEO-M8P reciever. '
+description: GPS02B is GNSS reciever ready to RTK (Real time kinematics) technology
 github_branch: GPS02B
 github_branches:
 - GPS02A
@@ -15,10 +14,10 @@ images:
 - doc/img/GPS02A_QRcode.png
 - doc/gen/img/GPS02B-top.png
 - doc/gen/img/GPS02B-bottom.png
-- doc/gen/GPS02B-schematic.svg
-- doc/gen/img/GPS02B-top.svg
 - hw/cam_profi/docs/GPS02B-assembly_page_01.svg
 - hw/cam_profi/docs/GPS02B-assembly_page_02.svg
+- doc/gen/GPS02B-schematic.svg
+- doc/gen/img/GPS02B-top.svg
 issues: 3
 mark: 50
 mod_ibom: hw/cam_profi/ibom/GPS02B-ibom.html
